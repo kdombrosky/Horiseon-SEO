@@ -1,2 +1,2 @@
 # Horiseon-SEO
-Code refactoring
+Code refactoring HTML + CSS for Horiseon home page. 
